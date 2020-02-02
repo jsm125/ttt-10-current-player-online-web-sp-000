@@ -11,7 +11,3 @@ end
 def current_player(board)
 
 end
-
-def move(board, index, character = "X")
-  board[index] = character
-end
