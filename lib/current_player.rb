@@ -4,7 +4,7 @@ counter = 0
   board.each do |n|
     if n == "X" || n == "O"
       counter += 1
-  end
+    end
   end
   counter
 end
