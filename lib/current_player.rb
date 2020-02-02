@@ -5,6 +5,7 @@ counter = 0
     if board[] = "X" || board[] = "O"
     counter += 1
   else
+  end
 end
 end
 
