@@ -5,7 +5,8 @@ counter = 0
     if n == "X" || n == "O"
       counter += 1
   end
-end
+  end
+  counter
 end
 
 def current_player(board)
